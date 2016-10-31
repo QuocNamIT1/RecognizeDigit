@@ -1,0 +1,28 @@
+﻿Build started 10/11/2016 8:21:40 PM.
+     1>Project "C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt NeuralNetwork.cpp
+         NeuralNetwork.cpp
+     1>NeuralNetwork.cpp(18): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>NeuralNetwork.cpp(28): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>NeuralNetwork.cpp(40): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>NeuralNetwork.cpp(109): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>NeuralNetwork.cpp(120): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>NeuralNetwork.cpp(122): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>NeuralNetwork.cpp(132): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>NeuralNetwork.cpp(140): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>NeuralNetwork.cpp(172): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>NeuralNetwork.cpp(182): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Release\Project2.exe" /NOLOGO /LIBPATH:"C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\\opencv" opencv_core249.lib opencv_highgui249.lib opencv_imgproc249.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Release\Project2.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH Release\NeuralNetwork.obj
+         Release\Source.obj
+         Release\TinhToanBieuThuc.obj
+         Release\Xulyanh.obj
+         Generating code
+         Finished generating code
+         Project2.vcxproj -> C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Release\Project2.exe
+     1>Done Building Project "C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Project2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.71

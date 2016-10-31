@@ -1,0 +1,14 @@
+﻿Build started 10/18/2016 5:12:46 AM.
+     1>Project "C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Debug\Project2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\\opencv" opencv_core249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Debug\Project2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 Debug\NeuralNetwork.obj
+         Debug\Source.obj
+         Debug\Source1.obj
+         Debug\TinhToanBieuThuc.obj
+         Debug\Xulyanh.obj
+         Project2.vcxproj -> C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Debug\Project2.exe
+     1>Done Building Project "C:\Users\nam\Documents\Nhan-dang-bieu-thuc-toan-hoc\Project2\Project2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.25
